@@ -1,7 +1,7 @@
 {
-  "name": "workflow",
+  "name": "petri-net-builder-alfa",
   "version": "1.0.0",
-  "description": "Workflow manager",
+  "description": "Petri net builder - alfa verwion",
   "main": "index.js",
   "dependencies": {
     "microevent": "^1.0.0",
